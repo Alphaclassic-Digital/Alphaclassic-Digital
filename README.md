@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alphaclassic-Digital
 - 👀 I’m interested in Software Engineering and web design 
-- 🌱 I’m currently learning HTML and CSS for a start
+- 🌱 I’m currently learning from Alx
 - 💞️ I’m looking to collaborate on any creative project.
 - 📫 You can reach me on Facebook, Twitter and Instagram.
 
